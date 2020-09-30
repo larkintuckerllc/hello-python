@@ -1,0 +1,12 @@
+[[source]]
+name = "hello-python"
+url = "https://github.com/larkintuckerllc/hello-python"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+requests = "*"
+
+[requires]
+python_version = "3.8"
